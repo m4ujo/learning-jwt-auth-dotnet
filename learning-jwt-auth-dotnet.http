@@ -1,0 +1,6 @@
+@learning_jwt_auth_dotnet_HostAddress = http://localhost:5198
+
+GET {{learning_jwt_auth_dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
